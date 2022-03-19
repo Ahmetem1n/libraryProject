@@ -33,7 +33,6 @@ public class BookCategoryManager implements BookCategoryService {
 				return;
 			}
 		}
-
 	}
 
 	@Override
